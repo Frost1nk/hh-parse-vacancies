@@ -1,0 +1,1294 @@
+{
+  "alternate_url": "https://hh.ru/search/vacancy?area=1&enable_snippets=true&text=React",
+  "arguments": null,
+  "clusters": null,
+  "found": 1790,
+  "items": [
+    {
+      "accept_temporary": false,
+      "address": {
+        "building": "24с2",
+        "city": "Москва",
+        "description": null,
+        "id": "7114668",
+        "lat": 55.743259,
+        "lng": 37.585494,
+        "metro": null,
+        "metro_stations": [],
+        "raw": "Москва, Смоленский бульвар, 24с2",
+        "street": "Смоленский бульвар"
+      },
+      "alternate_url": "https://hh.ru/vacancy/54219846",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=54219846",
+      "archived": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "contacts": null,
+      "created_at": "2022-04-15T17:26:40+0300",
+      "department": null,
+      "employer": {
+        "alternate_url": "https://hh.ru/employer/5971711",
+        "id": "5971711",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/4157981.png",
+          "90": "https://hhcdn.ru/employer-logo/4157980.png",
+          "original": "https://hhcdn.ru/employer-logo-original/929355.png"
+        },
+        "name": "МИТРА СОФТ",
+        "trusted": true,
+        "url": "https://api.hh.ru/employers/5971711",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5971711"
+      },
+      "has_test": true,
+      "id": "54219846",
+      "insider_interview": null,
+      "name": "Junior Frontend Developer (React)",
+      "premium": false,
+      "published_at": "2022-04-15T17:26:40+0300",
+      "relations": [],
+      "response_letter_required": false,
+      "response_url": null,
+      "salary": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "snippet": {
+        "requirement": "Знание технологий: <highlighttext>React</highlighttext> (bootstrap, router), Axios, Redux (sagaSpring Framework). Опыт работы с CSS-препроцессорами. Опыт работы с Git. ",
+        "responsibility": "Разработка логики frontend компонентов, взаимодействующих с бекендом. Работа с готовыми <highlighttext>React</highlighttext>-компонентами экосистемы и разработка новых согласно корпоративному дизайну. "
+      },
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "url": "https://api.hh.ru/vacancies/54219846?host=hh.ru",
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": []
+    },
+    {
+      "accept_temporary": false,
+      "address": null,
+      "alternate_url": "https://hh.ru/vacancy/54864414",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=54864414",
+      "archived": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "contacts": null,
+      "created_at": "2022-04-17T11:09:06+0300",
+      "department": null,
+      "employer": {
+        "alternate_url": "https://hh.ru/employer/2340154",
+        "id": "2340154",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/1771735.png",
+          "90": "https://hhcdn.ru/employer-logo/1771734.png",
+          "original": "https://hhcdn.ru/employer-logo-original/332346.png"
+        },
+        "name": "4Real LTD",
+        "trusted": false,
+        "url": "https://api.hh.ru/employers/2340154",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2340154"
+      },
+      "has_test": false,
+      "id": "54864414",
+      "insider_interview": null,
+      "name": "Frontend Developer (React)",
+      "premium": false,
+      "published_at": "2022-04-17T11:09:06+0300",
+      "relations": [],
+      "response_letter_required": false,
+      "response_url": null,
+      "salary": {
+        "currency": "RUR",
+        "from": 120000,
+        "gross": false,
+        "to": null
+      },
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "snippet": {
+        "requirement": "Английский на уровне, позволяющем грамотно именовать переменные, документировать код и смотреть видео с <highlighttext>React</highlighttext> Summit :). Приведите примеры работ, которые были...",
+        "responsibility": "Неравнодушных. Вам интересно работать над технологичными проектами, для вас сделанная задача - это решение, которым доволен пользователь, а не отправленный на..."
+      },
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "url": "https://api.hh.ru/vacancies/54864414?host=hh.ru",
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": []
+    },
+    {
+      "accept_temporary": false,
+      "address": {
+        "building": "28А",
+        "city": "Москва",
+        "description": null,
+        "id": "1124856",
+        "lat": 55.618745,
+        "lng": 37.715138,
+        "metro": {
+          "lat": 55.610131,
+          "line_id": "2",
+          "line_name": "Замоскворецкая",
+          "lng": 37.717111,
+          "station_id": "2.38",
+          "station_name": "Домодедовская"
+        },
+        "metro_stations": [
+          {
+            "lat": 55.610131,
+            "line_id": "2",
+            "line_name": "Замоскворецкая",
+            "lng": 37.717111,
+            "station_id": "2.38",
+            "station_name": "Домодедовская"
+          }
+        ],
+        "raw": "Москва, Шипиловская улица, 28А",
+        "street": "Шипиловская улица"
+      },
+      "alternate_url": "https://hh.ru/vacancy/50894440",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=50894440",
+      "archived": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "contacts": null,
+      "created_at": "2022-04-16T20:42:51+0300",
+      "department": null,
+      "employer": {
+        "alternate_url": "https://hh.ru/employer/2515455",
+        "id": "2515455",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/3038937.png",
+          "90": "https://hhcdn.ru/employer-logo/3038936.png",
+          "original": "https://hhcdn.ru/employer-logo-original/649447.png"
+        },
+        "name": "24Н Софт",
+        "trusted": true,
+        "url": "https://api.hh.ru/employers/2515455",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2515455"
+      },
+      "has_test": true,
+      "id": "50894440",
+      "insider_interview": null,
+      "name": "Junior Frontend разработчик (React)",
+      "premium": false,
+      "published_at": "2022-04-16T20:42:51+0300",
+      "relations": [],
+      "response_letter_required": false,
+      "response_url": null,
+      "salary": {
+        "currency": "RUR",
+        "from": 90000,
+        "gross": false,
+        "to": null
+      },
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "snippet": {
+        "requirement": "TypeScript. Практический опыт проектирования и разработки на <highlighttext>React</highlighttext>. Знание протокола HTTP/HTTPS и опыт взаимодействия с серверным API. ",
+        "responsibility": "Разработка новых фич. Поддержка текущей функциональности. Верстка. Рефакторинг."
+      },
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "url": "https://api.hh.ru/vacancies/50894440?host=hh.ru",
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": []
+    },
+    {
+      "accept_temporary": true,
+      "address": null,
+      "alternate_url": "https://hh.ru/vacancy/54658707",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=54658707",
+      "archived": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "contacts": null,
+      "created_at": "2022-04-16T14:45:55+0300",
+      "department": null,
+      "employer": {
+        "alternate_url": "https://hh.ru/employer/4955407",
+        "id": "4955407",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/3954496.png",
+          "90": "https://hhcdn.ru/employer-logo/3954495.png",
+          "original": "https://hhcdn.ru/employer-logo-original/878405.png"
+        },
+        "name": "Top Remote Talent",
+        "trusted": true,
+        "url": "https://api.hh.ru/employers/4955407",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4955407"
+      },
+      "has_test": false,
+      "id": "54658707",
+      "insider_interview": null,
+      "name": "Frontend Engineer (React)",
+      "premium": false,
+      "published_at": "2022-04-16T14:45:55+0300",
+      "relations": [],
+      "response_letter_required": false,
+      "response_url": null,
+      "salary": {
+        "currency": "USD",
+        "from": 4000,
+        "gross": true,
+        "to": 7000
+      },
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "snippet": {
+        "requirement": "3 years of experience as a professional frontend web developer. Experience using standard web tools like HTML5, CSS, JavaScript...",
+        "responsibility": "Design and implement compelling frontend experiences using <highlighttext>React</highlighttext>, Typescript. Build highly scalable, real-time, performant, secure, web based frontend solution. "
+      },
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "url": "https://api.hh.ru/vacancies/54658707?host=hh.ru",
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": []
+    },
+    {
+      "accept_temporary": false,
+      "address": null,
+      "alternate_url": "https://hh.ru/vacancy/54861287",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=54861287",
+      "archived": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "contacts": null,
+      "created_at": "2022-04-16T14:51:11+0300",
+      "department": null,
+      "employer": {
+        "alternate_url": "https://hh.ru/employer/5053354",
+        "id": "5053354",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/3624224.png",
+          "90": "https://hhcdn.ru/employer-logo/3624223.png",
+          "original": "https://hhcdn.ru/employer-logo-original/795834.png"
+        },
+        "name": "ЭВО ЭКТИВ",
+        "trusted": true,
+        "url": "https://api.hh.ru/employers/5053354",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5053354"
+      },
+      "has_test": false,
+      "id": "54861287",
+      "insider_interview": null,
+      "name": "Frontend-разработчик (React) Middle +",
+      "premium": false,
+      "published_at": "2022-04-16T14:51:11+0300",
+      "relations": [],
+      "response_letter_required": false,
+      "response_url": null,
+      "salary": {
+        "currency": "RUR",
+        "from": 150000,
+        "gross": false,
+        "to": 300000
+      },
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "snippet": {
+        "requirement": "Опыт более 3х лет. - Увлеченность проектом. - Готовность к full time. - Самоорганизованность. - Гибкость во всем.",
+        "responsibility": "У нас сложная CMS/CRM/ERP, платежные шлюзы, API для сайта и приложений, интеграции с внешними сервисами."
+      },
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "url": "https://api.hh.ru/vacancies/54861287?host=hh.ru",
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": []
+    },
+    {
+      "accept_temporary": false,
+      "address": {
+        "building": "5Ак1",
+        "city": "Москва",
+        "description": null,
+        "id": "1253622",
+        "lat": 55.754968,
+        "lng": 37.509262,
+        "metro": {
+          "lat": 55.746763,
+          "line_id": "4",
+          "line_name": "Филевская",
+          "lng": 37.514035,
+          "station_id": "4.151",
+          "station_name": "Фили"
+        },
+        "metro_stations": [
+          {
+            "lat": 55.746763,
+            "line_id": "4",
+            "line_name": "Филевская",
+            "lng": 37.514035,
+            "station_id": "4.151",
+            "station_name": "Фили"
+          }
+        ],
+        "raw": "Москва, Береговой проезд, 5Ак1",
+        "street": "Береговой проезд"
+      },
+      "alternate_url": "https://hh.ru/vacancy/54847345",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=54847345",
+      "archived": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "contacts": null,
+      "created_at": "2022-04-15T13:12:40+0300",
+      "department": null,
+      "employer": {
+        "alternate_url": "https://hh.ru/employer/1621765",
+        "id": "1621765",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/3227833.png",
+          "90": "https://hhcdn.ru/employer-logo/3227832.png",
+          "original": "https://hhcdn.ru/employer-logo-original/696679.png"
+        },
+        "name": "КЗ ЭКСПЕРТ-КАБЕЛЬ",
+        "trusted": true,
+        "url": "https://api.hh.ru/employers/1621765",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1621765"
+      },
+      "has_test": false,
+      "id": "54847345",
+      "insider_interview": null,
+      "name": "Junior Front-end разработчик",
+      "premium": false,
+      "published_at": "2022-04-15T13:12:40+0300",
+      "relations": [],
+      "response_letter_required": false,
+      "response_url": null,
+      "salary": {
+        "currency": "RUR",
+        "from": 100000,
+        "gross": true,
+        "to": null
+      },
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "snippet": {
+        "requirement": "Знание HTML5 и CSS (умение верстать под различные разрешения экрана), понимание технологии SCSS. Знакомство с библиотеками <highlighttext>React</highlighttext>, Node, Vue...",
+        "responsibility": "Реализация пользовательской части в микросервисных проектах. Тестирование проектов."
+      },
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "url": "https://api.hh.ru/vacancies/54847345?host=hh.ru",
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": []
+    },
+    {
+      "accept_temporary": true,
+      "address": null,
+      "alternate_url": "https://hh.ru/vacancy/53630587",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=53630587",
+      "archived": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "contacts": null,
+      "created_at": "2022-04-15T14:44:07+0300",
+      "department": null,
+      "employer": {
+        "alternate_url": "https://hh.ru/employer/4300631",
+        "id": "4300631",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/3176485.png",
+          "90": "https://hhcdn.ru/employer-logo/3176484.png",
+          "original": "https://hhcdn.ru/employer-logo-original/683838.png"
+        },
+        "name": "Kvando Technologies",
+        "trusted": true,
+        "url": "https://api.hh.ru/employers/4300631",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4300631"
+      },
+      "has_test": false,
+      "id": "53630587",
+      "insider_interview": null,
+      "name": "React разработчик",
+      "premium": false,
+      "published_at": "2022-04-15T14:44:07+0300",
+      "relations": [],
+      "response_letter_required": false,
+      "response_url": null,
+      "salary": {
+        "currency": "RUR",
+        "from": 150000,
+        "gross": false,
+        "to": 250000
+      },
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "snippet": {
+        "requirement": "Какие знания необходимы: -опыт коммерческой разработки <highlighttext>React</highlighttext> от 2х лет. -знание Redux, TypeScript. -опыт с Linux и облачными технологиями...",
+        "responsibility": null
+      },
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "url": "https://api.hh.ru/vacancies/53630587?host=hh.ru",
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": []
+    },
+    {
+      "accept_temporary": false,
+      "address": null,
+      "alternate_url": "https://hh.ru/vacancy/53588371",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=53588371",
+      "archived": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "contacts": null,
+      "created_at": "2022-04-17T19:43:39+0300",
+      "department": null,
+      "employer": {
+        "alternate_url": "https://hh.ru/employer/3909076",
+        "id": "3909076",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/3357893.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/3357892.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/729202.jpg"
+        },
+        "name": "Takeoff Staff",
+        "trusted": true,
+        "url": "https://api.hh.ru/employers/3909076",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3909076"
+      },
+      "has_test": false,
+      "id": "53588371",
+      "insider_interview": null,
+      "name": "Frontend-разработчик (React)",
+      "premium": false,
+      "published_at": "2022-04-17T19:43:39+0300",
+      "relations": [],
+      "response_letter_required": false,
+      "response_url": null,
+      "salary": {
+        "currency": "RUR",
+        "from": null,
+        "gross": true,
+        "to": 150000
+      },
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "snippet": {
+        "requirement": "Уверенное владение javascript. Уверенное владение одним из популярных фреймворков: <highlighttext>React</highlighttext>, Vue, Angular. Знание gulp и/или webpack, понимание процесса сборки...",
+        "responsibility": "Разработка веб-интерфейсов. Изучение и рефакторинг унаследованного кода. Написание Unit тестов."
+      },
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "url": "https://api.hh.ru/vacancies/53588371?host=hh.ru",
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": []
+    },
+    {
+      "accept_temporary": false,
+      "address": null,
+      "alternate_url": "https://hh.ru/vacancy/54284273",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=54284273",
+      "archived": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "contacts": null,
+      "created_at": "2022-04-17T12:58:55+0300",
+      "department": null,
+      "employer": {
+        "alternate_url": "https://hh.ru/employer/4495752",
+        "id": "4495752",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/3752064.png",
+          "90": "https://hhcdn.ru/employer-logo/3752063.png",
+          "original": "https://hhcdn.ru/employer-logo-original/827795.png"
+        },
+        "name": "Arival",
+        "trusted": false,
+        "url": "https://api.hh.ru/employers/4495752",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4495752"
+      },
+      "has_test": false,
+      "id": "54284273",
+      "insider_interview": null,
+      "name": "Frontend developer (React)",
+      "premium": false,
+      "published_at": "2022-04-17T12:58:55+0300",
+      "relations": [],
+      "response_letter_required": false,
+      "response_url": null,
+      "salary": {
+        "currency": "USD",
+        "from": 3000,
+        "gross": false,
+        "to": 4000
+      },
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "snippet": {
+        "requirement": "Опыт работы на <highlighttext>ReactJs</highlighttext>, верстка готовых компонентов. Уверенное владение HTML5, CSS3 (чистая вёрстка, без библиотек и фреймворков), JS. ",
+        "responsibility": "Проектирование и разработка web-интерфеса с использованием современных технологий. Совместная работа с другими бизнес-подразделениями. Реализация нового функционала банка. "
+      },
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "url": "https://api.hh.ru/vacancies/54284273?host=hh.ru",
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": []
+    },
+    {
+      "accept_temporary": true,
+      "address": {
+        "building": "1",
+        "city": "Москва ",
+        "description": null,
+        "id": "47863",
+        "lat": 55.682407,
+        "lng": 37.625244,
+        "metro": {
+          "lat": 55.682099,
+          "line_id": "9",
+          "line_name": "Серпуховско-Тимирязевская",
+          "lng": 37.620917,
+          "station_id": "9.85",
+          "station_name": "Нагатинская"
+        },
+        "metro_stations": [
+          {
+            "lat": 55.682099,
+            "line_id": "9",
+            "line_name": "Серпуховско-Тимирязевская",
+            "lng": 37.620917,
+            "station_id": "9.85",
+            "station_name": "Нагатинская"
+          }
+        ],
+        "raw": "Москва , Нагатинская улица, 1",
+        "street": "Нагатинская улица"
+      },
+      "alternate_url": "https://hh.ru/vacancy/52371864",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=52371864",
+      "archived": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "contacts": null,
+      "created_at": "2022-04-16T11:39:56+0300",
+      "department": null,
+      "employer": {
+        "alternate_url": "https://hh.ru/employer/578702",
+        "id": "578702",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/3928188.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/3928187.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/871828.jpg"
+        },
+        "name": "ArtVolkov.ru",
+        "trusted": true,
+        "url": "https://api.hh.ru/employers/578702",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=578702"
+      },
+      "has_test": false,
+      "id": "52371864",
+      "insider_interview": null,
+      "name": "Blockchain разработчик / Frontend-разработчик / Full stack разработчик (удаленно)",
+      "premium": false,
+      "published_at": "2022-04-16T11:39:56+0300",
+      "relations": [],
+      "response_letter_required": false,
+      "response_url": null,
+      "salary": {
+        "currency": "RUR",
+        "from": 350000,
+        "gross": false,
+        "to": 550000
+      },
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "snippet": {
+        "requirement": "Уверенное знание JavaScript/TypeScript от 2-х лет. Уверенное знание <highlighttext>React</highlighttext> от 2-х лет. Или. Уверенное знание Angular от...",
+        "responsibility": "Участие в проектирование архитектуры системы, участие в совершенствовании архитектуры решения в перспективнейшем финтехе."
+      },
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "url": "https://api.hh.ru/vacancies/52371864?host=hh.ru",
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": []
+    },
+    {
+      "accept_temporary": false,
+      "address": null,
+      "alternate_url": "https://hh.ru/vacancy/54512648",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=54512648",
+      "archived": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "contacts": null,
+      "created_at": "2022-04-16T12:36:47+0300",
+      "department": null,
+      "employer": {
+        "alternate_url": "https://hh.ru/employer/550501",
+        "id": "550501",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/3373921.png",
+          "90": "https://hhcdn.ru/employer-logo/3373920.png",
+          "original": "https://hhcdn.ru/employer-logo-original/733211.png"
+        },
+        "name": "Pranas",
+        "trusted": true,
+        "url": "https://api.hh.ru/employers/550501",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=550501"
+      },
+      "has_test": false,
+      "id": "54512648",
+      "insider_interview": null,
+      "name": "Frontend Developer (React)",
+      "premium": false,
+      "published_at": "2022-04-16T12:36:47+0300",
+      "relations": [],
+      "response_letter_required": false,
+      "response_url": null,
+      "salary": {
+        "currency": "USD",
+        "from": 3000,
+        "gross": true,
+        "to": null
+      },
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "snippet": {
+        "requirement": "Back: ASP.NET Core, PostgreSQL. 3 года опыта, превосходный JavaScript, <highlighttext>React</highlighttext>, HTML/CSS. Будет плюсом: JavaScript: How would you submit form...",
+        "responsibility": null
+      },
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "url": "https://api.hh.ru/vacancies/54512648?host=hh.ru",
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": []
+    },
+    {
+      "accept_temporary": false,
+      "address": null,
+      "alternate_url": "https://hh.ru/vacancy/54691586",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=54691586",
+      "archived": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "contacts": null,
+      "created_at": "2022-04-17T17:19:52+0300",
+      "department": null,
+      "employer": {
+        "alternate_url": "https://hh.ru/employer/55828",
+        "id": "55828",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/1510267.png",
+          "90": "https://hhcdn.ru/employer-logo/1510266.png",
+          "original": "https://hhcdn.ru/employer-logo-original/266934.gif"
+        },
+        "name": "Инсайрес",
+        "trusted": true,
+        "url": "https://api.hh.ru/employers/55828",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=55828"
+      },
+      "has_test": false,
+      "id": "54691586",
+      "insider_interview": null,
+      "name": "Frontend-разработчик (React)",
+      "premium": false,
+      "published_at": "2022-04-17T17:19:52+0300",
+      "relations": [],
+      "response_letter_required": false,
+      "response_url": null,
+      "salary": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "snippet": {
+        "requirement": "Что нужно уметь.",
+        "responsibility": "1) Оценка трудоемкости проектируемых решений. 2) Разработка программного обеспечения (программирование). 3) Развитие/модернизация программного обеспечения. Нам нужны разработчики для написания..."
+      },
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "url": "https://api.hh.ru/vacancies/54691586?host=hh.ru",
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": []
+    },
+    {
+      "accept_temporary": false,
+      "address": null,
+      "alternate_url": "https://hh.ru/vacancy/54333867",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=54333867",
+      "archived": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "contacts": null,
+      "created_at": "2022-04-15T23:48:37+0300",
+      "department": null,
+      "employer": {
+        "alternate_url": "https://hh.ru/employer/5402004",
+        "id": "5402004",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/4173165.png",
+          "90": "https://hhcdn.ru/employer-logo/4173164.png",
+          "original": "https://hhcdn.ru/employer-logo-original/933153.png"
+        },
+        "name": "Lenkep recruitment",
+        "trusted": true,
+        "url": "https://api.hh.ru/employers/5402004",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5402004"
+      },
+      "has_test": false,
+      "id": "54333867",
+      "insider_interview": null,
+      "name": "ReactJS Developer",
+      "premium": false,
+      "published_at": "2022-04-15T23:48:37+0300",
+      "relations": [],
+      "response_letter_required": false,
+      "response_url": null,
+      "salary": {
+        "currency": "USD",
+        "from": null,
+        "gross": true,
+        "to": 8000
+      },
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "snippet": {
+        "requirement": "Имеет большой опыт работы с JS (ES6) (больше 3-х лет). Имеет опыт работы с современными фреймворками React.js (React.Native). ",
+        "responsibility": "Проектировать, реализовывать и поддерживать приложения компании в составе продуктовой команды. Писать качественный, легко поддерживаемый код. Профилировать и оптимизировать свой код. "
+      },
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "url": "https://api.hh.ru/vacancies/54333867?host=hh.ru",
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": []
+    },
+    {
+      "accept_temporary": true,
+      "address": null,
+      "alternate_url": "https://hh.ru/vacancy/50258452",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=50258452",
+      "archived": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "contacts": null,
+      "created_at": "2022-04-17T12:43:35+0300",
+      "department": null,
+      "employer": {
+        "alternate_url": "https://hh.ru/employer/5076748",
+        "id": "5076748",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/3639504.png",
+          "90": "https://hhcdn.ru/employer-logo/3639503.png",
+          "original": "https://hhcdn.ru/employer-logo-original/799654.png"
+        },
+        "name": "Mobigility Inc.",
+        "trusted": true,
+        "url": "https://api.hh.ru/employers/5076748",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5076748"
+      },
+      "has_test": false,
+      "id": "50258452",
+      "insider_interview": null,
+      "name": "Middle React (Web) Developer",
+      "premium": false,
+      "published_at": "2022-04-17T12:43:35+0300",
+      "relations": [],
+      "response_letter_required": false,
+      "response_url": null,
+      "salary": {
+        "currency": "RUR",
+        "from": 160000,
+        "gross": false,
+        "to": 200000
+      },
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "snippet": {
+        "requirement": "Опыт работы с <highlighttext>React</highlighttext> и Redux от 2 лет. Наличие опыта работы со Styled Components. Суммарный опыт в web-разработке...",
+        "responsibility": "Разрабатывать веб-приложения в микрофронтендовой архитектуре. Внедрять новые продукты, поддерживать и развивать существующие. Развивать собственную библиотеку компонентов для продуктовых частей. "
+      },
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "url": "https://api.hh.ru/vacancies/50258452?host=hh.ru",
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": []
+    },
+    {
+      "accept_temporary": false,
+      "address": null,
+      "alternate_url": "https://hh.ru/vacancy/54445803",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=54445803",
+      "archived": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "contacts": null,
+      "created_at": "2022-04-17T09:12:34+0300",
+      "department": null,
+      "employer": {
+        "alternate_url": "https://hh.ru/employer/5973965",
+        "id": "5973965",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/4170761.png",
+          "90": "https://hhcdn.ru/employer-logo/4170760.png",
+          "original": "https://hhcdn.ru/employer-logo-original/932552.png"
+        },
+        "name": "Петухова Алия",
+        "trusted": false,
+        "url": "https://api.hh.ru/employers/5973965",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5973965"
+      },
+      "has_test": false,
+      "id": "54445803",
+      "insider_interview": null,
+      "name": "Frontend Developer in Unicorn Company",
+      "premium": false,
+      "published_at": "2022-04-17T09:12:34+0300",
+      "relations": [],
+      "response_letter_required": false,
+      "response_url": null,
+      "salary": {
+        "currency": "RUR",
+        "from": 574000,
+        "gross": true,
+        "to": 860000
+      },
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "snippet": {
+        "requirement": "Опыт работы с backend фреймворками (например, Spring Boot и др.). Большой опыт работы с frontend фреймворками (например, <highlighttext>React</highlighttext> и др.). ",
+        "responsibility": "Работа в кросс-функциональной среде. Помощь в совершенствовании технических навыков и помощь в изучении японского языка."
+      },
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "url": "https://api.hh.ru/vacancies/54445803?host=hh.ru",
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": []
+    },
+    {
+      "accept_temporary": false,
+      "address": {
+        "building": "32",
+        "city": "Москва",
+        "description": null,
+        "id": "4955598",
+        "lat": 55.675966,
+        "lng": 37.571345,
+        "metro": null,
+        "metro_stations": [],
+        "raw": "Москва, Нахимовский проспект, 32",
+        "street": "Нахимовский проспект"
+      },
+      "alternate_url": "https://hh.ru/vacancy/49824852",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=49824852",
+      "archived": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "contacts": null,
+      "created_at": "2022-04-14T13:30:00+0300",
+      "department": null,
+      "employer": {
+        "alternate_url": "https://hh.ru/employer/2590553",
+        "id": "2590553",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/1916367.png",
+          "90": "https://hhcdn.ru/employer-logo/1916366.png",
+          "original": "https://hhcdn.ru/employer-logo-original/368527.png"
+        },
+        "name": "INGURU.RU",
+        "trusted": true,
+        "url": "https://api.hh.ru/employers/2590553",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2590553"
+      },
+      "has_test": false,
+      "id": "49824852",
+      "insider_interview": null,
+      "name": "Front-end разработчик (React) Senior",
+      "premium": true,
+      "published_at": "2022-04-14T13:30:00+0300",
+      "relations": [],
+      "response_letter_required": false,
+      "response_url": null,
+      "salary": {
+        "currency": "RUR",
+        "from": 200000,
+        "gross": false,
+        "to": 350000
+      },
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "snippet": {
+        "requirement": "JS, HTML5, CSS3. Опыт работы с классовыми компонентами и хуками <highlighttext>React</highlighttext>. Опыт работы с Typescript, Webpack, git. ",
+        "responsibility": "Работа в продуктовой команде (менеджер продукта, UX/UI-дизайнер, frontend- и backend-разработчики, тестировщики). Разработка веб-приложений (сайт, личные кабинеты..."
+      },
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "url": "https://api.hh.ru/vacancies/49824852?host=hh.ru",
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": []
+    },
+    {
+      "accept_temporary": false,
+      "address": null,
+      "alternate_url": "https://hh.ru/vacancy/54507239",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=54507239",
+      "archived": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "contacts": null,
+      "created_at": "2022-04-16T10:10:15+0300",
+      "department": null,
+      "employer": {
+        "alternate_url": "https://hh.ru/employer/1002298",
+        "id": "1002298",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/4170701.png",
+          "90": "https://hhcdn.ru/employer-logo/4170700.png",
+          "original": "https://hhcdn.ru/employer-logo-original/932537.png"
+        },
+        "name": "ITFB Group",
+        "trusted": true,
+        "url": "https://api.hh.ru/employers/1002298",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1002298"
+      },
+      "has_test": false,
+      "id": "54507239",
+      "insider_interview": null,
+      "name": "Front-end разработчик (React)",
+      "premium": false,
+      "published_at": "2022-04-16T10:10:15+0300",
+      "relations": [],
+      "response_letter_required": false,
+      "response_url": null,
+      "salary": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "snippet": {
+        "requirement": "Отличное знание <highlighttext>React</highlighttext> API. Навык разработки functional и class компонентов. Навыки работы с Hook из <highlighttext>React</highlighttext> api, навык разработки custom...",
+        "responsibility": "Оптимизация рендеринга компонент в <highlighttext>React</highlighttext>. Понимание концепции reconciliation, memoization, lazy loading. Оптимизация загрузки статичного контента - кэширования, service workers, defer и..."
+      },
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "url": "https://api.hh.ru/vacancies/54507239?host=hh.ru",
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": []
+    },
+    {
+      "accept_temporary": false,
+      "address": null,
+      "alternate_url": "https://hh.ru/vacancy/54384228",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=54384228",
+      "archived": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "contacts": null,
+      "created_at": "2022-04-15T14:16:08+0300",
+      "department": null,
+      "employer": {
+        "alternate_url": "https://hh.ru/employer/3463642",
+        "id": "3463642",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/3261637.png",
+          "90": "https://hhcdn.ru/employer-logo/3261636.png",
+          "original": "https://hhcdn.ru/employer-logo-original/705130.png"
+        },
+        "name": "Fundraise Up",
+        "trusted": true,
+        "url": "https://api.hh.ru/employers/3463642",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3463642"
+      },
+      "has_test": false,
+      "id": "54384228",
+      "insider_interview": null,
+      "name": "React Native Developer",
+      "premium": false,
+      "published_at": "2022-04-15T14:16:08+0300",
+      "relations": [],
+      "response_letter_required": false,
+      "response_url": null,
+      "salary": {
+        "currency": "USD",
+        "from": 2500,
+        "gross": false,
+        "to": 4500
+      },
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "snippet": {
+        "requirement": "Медианный возраст продуктовой команды 28 лет. Готовность переехать из России в ближайшие месяц-два. <highlighttext>React</highlighttext> Native (TypeScript). <highlighttext>React</highlighttext> Navigation 6.",
+        "responsibility": "Команда. В компании работает 80 человек. В офисе в Нью-Йорке маркетинг, продажи, онбординг и саппорт. Удаленно мы принимаем продуктовые..."
+      },
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "url": "https://api.hh.ru/vacancies/54384228?host=hh.ru",
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": []
+    },
+    {
+      "accept_temporary": true,
+      "address": null,
+      "alternate_url": "https://hh.ru/vacancy/54328530",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=54328530",
+      "archived": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "contacts": null,
+      "created_at": "2022-04-15T12:34:34+0300",
+      "department": null,
+      "employer": {
+        "alternate_url": "https://hh.ru/employer/1641972",
+        "id": "1641972",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/2750268.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/2750267.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/577249.jpg"
+        },
+        "name": "Broniboy",
+        "trusted": true,
+        "url": "https://api.hh.ru/employers/1641972",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1641972"
+      },
+      "has_test": true,
+      "id": "54328530",
+      "insider_interview": null,
+      "name": "Middle Frontend Developer (React), удаленно",
+      "premium": false,
+      "published_at": "2022-04-15T12:34:34+0300",
+      "relations": [],
+      "response_letter_required": false,
+      "response_url": null,
+      "salary": {
+        "currency": "RUR",
+        "from": 160000,
+        "gross": false,
+        "to": 200000
+      },
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "snippet": {
+        "requirement": "<highlighttext>React</highlighttext>. Redux. Redux-Saga. Styled-Components. HTML. CSS. Javascript. Next.js. Понимание SSR. Знание webpack. Желание автоматизировать процесс разработки и деплоя. ",
+        "responsibility": "Развивать личный кабинет ресторанов. Развивать бэкофис (планируются сложные кастомные интерфейсы). Разработать кросс-платформенные части приложения курьеров и ресторанов."
+      },
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "url": "https://api.hh.ru/vacancies/54328530?host=hh.ru",
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": []
+    },
+    {
+      "accept_temporary": false,
+      "address": null,
+      "alternate_url": "https://hh.ru/vacancy/51971066",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=51971066",
+      "archived": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "contacts": null,
+      "created_at": "2022-04-16T11:42:38+0300",
+      "department": null,
+      "employer": {
+        "alternate_url": "https://hh.ru/employer/3280961",
+        "id": "3280961",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/3939332.png",
+          "90": "https://hhcdn.ru/employer-logo/3939331.png",
+          "original": "https://hhcdn.ru/employer-logo-original/874614.png"
+        },
+        "name": "GetCoreTeam.com",
+        "trusted": true,
+        "url": "https://api.hh.ru/employers/3280961",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3280961"
+      },
+      "has_test": false,
+      "id": "51971066",
+      "insider_interview": null,
+      "name": "Разработчик React",
+      "premium": false,
+      "published_at": "2022-04-16T11:42:38+0300",
+      "relations": [],
+      "response_letter_required": false,
+      "response_url": null,
+      "salary": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "snippet": {
+        "requirement": "Redux Saga или Effector.",
+        "responsibility": null
+      },
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "url": "https://api.hh.ru/vacancies/51971066?host=hh.ru",
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": []
+    }
+  ],
+  "page": 0,
+  "pages": 90,
+  "per_page": 20
+}
